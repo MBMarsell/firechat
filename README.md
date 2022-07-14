@@ -1,5 +1,1 @@
-# FIRE FIRE FIRE FIRE
-
-# 🔥🔥🔥🔥🔥🔥🔥🔥🔥
-
-# CHAT CHAT CHAT CHAT
+Small chat application made with React and Firebase.
